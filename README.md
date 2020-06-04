@@ -1,3 +1,4 @@
 # IDI
 Intellect Development Incorporation (IDI) provides various brain training programs for the Children to develop various qualities including mental maths and abacus related problem solving apart from the overall developmemt of the student. NABET has provided Intellect Development Inc. India with accreditation for providing IDI Abacus Education. 
+# Website  
 The website designed provides all the essential information regarding the company and provides forms for registration and also for proving feedback. Apart from that the students can take part in an online quiz to boost their calculation speed. The company also regularly updates the website with new Modules and question papers for the students to complete. A gallery page also present shows the newest pictures for the students and parents to view and download. 
